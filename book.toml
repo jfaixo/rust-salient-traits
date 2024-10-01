@@ -1,0 +1,12 @@
+[book]
+authors = ["Julien Faixo"]
+language = "fr"
+multilingual = false
+src = "src"
+title = "Les Traits saillants de Rust"
+
+[rust]
+edition = "2021"
+
+[output.html.playground]
+editable = true
