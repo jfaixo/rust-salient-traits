@@ -17,7 +17,7 @@ fn do_something_to(cat: Cat) {
 }
 ```
 </td>
-<td>Je te donne mon chat, tu ne peux rien lui faire, juste l'observer. Je ne l'ai plus.
+<td>Je te donne mon chat. Je ne l'ai plus.
 
 Une seule personne peut posséder le chat à la fois.
 </td>
@@ -32,7 +32,7 @@ fn do_something_to(mut cat: Cat) {
 }
 ```
 </td>
-<td>Je te donne mon chat, tu peux tout lui faire... Je ne l'ai plus.
+<td>Je te donne mon chat, et tu peux immédiatement le modifier. Je ne l'ai plus.
 
 Une seule personne peut posséder le chat à la fois.
 </td>
