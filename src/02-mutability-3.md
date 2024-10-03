@@ -30,5 +30,5 @@ fn main() {
 >
 > Bien souvent, il est possible de procéder autrement pour contourner le problème rencontré par le compilateur.
 
-- [Mutability](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/mutability.html)
+- [RefCell and interior mutability](https://doc.rust-lang.org/beta/book/ch15-05-interior-mutability.html)
 - [RefCell](https://doc.rust-lang.org/std/cell/struct.RefCell.html)

@@ -29,4 +29,4 @@ fn main() {
 }
 ```
 
-Pour plus des détails, voir [Mutability](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/mutability.html).
+[Mutability](https://doc.rust-lang.org/beta/book/ch03-01-variables-and-mutability.html)
